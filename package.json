@@ -1,0 +1,25 @@
+{
+  "name": "javascript-algorithims",
+  "version": "1.0.0",
+  "description": "js-algos",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "watchify /Users/vvork/Desktop/Pathfinding-Visualizer/public/browser/board.js -o /Users/vvork/Desktop/Pathfinding-Visualizer/public/browser/sundle.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ishanShahzad/javascript-algorithims.git"
+  },
+  "author": "ishanshahzad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ishanShahzad/javascript-algorithims/issues"
+  },
+  "homepage": "https://github.com/ishanShahzad/javascript-algorithims#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.1"
+  }
+}
