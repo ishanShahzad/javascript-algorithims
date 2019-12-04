@@ -4,7 +4,7 @@
   "description": "js-algos",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js",
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1",
     "watch": "watchify /Users/vvork/Desktop/Pathfinding-Visualizer/public/browser/board.js -o /Users/vvork/Desktop/Pathfinding-Visualizer/public/browser/sundle.js"
   },
