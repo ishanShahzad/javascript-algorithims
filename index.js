@@ -8,5 +8,5 @@ app.get("/", (req, res) => {
 });
 const PORT = 8081 || process.env.PORT;
 app.listen(PORT, () => {
-  console.log("The server is up and running!");
+  console.log("The server is up and running");
 });
